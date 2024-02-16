@@ -14,3 +14,6 @@ Controller Advice -> The @ControllerAdvice is an annotation, to handle the excep
 Exception Handler -> The @ExceptionHandler is an annotation used to handle the specific exceptions and sending the custom responses to the client.
 
 
+API's ---->
+
+![Swagger UI - Google Chrome 16-02-2024 09_39_21](https://github.com/hridayeshadhikari/SpringBoot-validation-ExceptionHandling/assets/140496685/a11b2942-bf9e-424f-9e24-82e0532ee1b3)
